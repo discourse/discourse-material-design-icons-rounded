@@ -1,0 +1,10 @@
+{
+  "name": "discourse-material-icons-rounded",
+  "description": "Google Material Icons (Rounded) for Discourse",
+  "about_url": null,
+  "license_url": null,
+  "component": true,
+  "assets": {
+    "icons-sprite": "/assets/icons-sprite.svg"
+  }
+}
