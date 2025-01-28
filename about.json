@@ -1,6 +1,6 @@
 {
-  "name": "discourse-material-icons-rounded",
-  "description": "Google Material Icons (Rounded) for Discourse",
+  "name": "discourse-material-design-icons-rounded",
+  "description": "Material Design rounded icons for Discourse",
   "about_url": null,
   "license_url": null,
   "component": true,
